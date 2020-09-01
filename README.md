@@ -1,9 +1,9 @@
 # **Tim**
-  [![MIT](https://img/shields.io/badge/License-https://api.github.com/licenses/mit-blue)](https://api.github.com/licenses/mit)
+  [![Badge](https://img.shields.io/endpoint?url=https://api.github.com/licenses/mit&style=flat)](https://api.github.com/licenses/mit)
 
   ## Description ##
 
-  tim
+  Tim
 
   ## Table Of Contents ##
 
@@ -22,11 +22,11 @@
 
   ## Usage ##
 
-  TIm
+  Tim
 
   ## Contributors ##
 
-  TIm
+  Tim
 
   ## License ##
 
@@ -38,12 +38,12 @@
 
   ## Repository ##
 
-  - [My Projects Repository](link)
+  - [My Projects Repository](tim)
 
   ## Questions ##
 
   ![My Profile Picture](https://avatars0.githubusercontent.com/u/67024245?v=4)
   - Timothy Sanders
   - [My Profile](https://github.com/tbsanders5)
-  - tbsanders5@gmail.com
+  - tim
 
