@@ -1,4 +1,5 @@
 # **Tims**
+  [![GNULesser](https://img/shields.io/badge/License-GNULesser-blue)]
 
   ## Description ##
 
@@ -29,15 +30,15 @@
 
   ## License ##
 
-  GNULesser
+  https://api.github.com/licenses/lgpl-3.0
 
   ## Tests ##
 
-  Tim
+  Tims
 
   ## Repository ##
 
-  - [My Projects Repository](https://github.com/tbsanders5/readmegenerator)
+  - [My Projects Repository](link)
 
   ## Questions ##
 
