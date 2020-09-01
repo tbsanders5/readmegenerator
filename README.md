@@ -1,9 +1,9 @@
-# **Tims**
-  [![MIT](https://img/shields.io/badge/License-MIT-blue)](https://api.github.com/licenses/mit)
+# **Tim**
+  [![MIT](https://img/shields.io/badge/License-https://api.github.com/licenses/mit-blue)](https://api.github.com/licenses/mit)
 
   ## Description ##
 
-  ITms
+  tim
 
   ## Table Of Contents ##
 
@@ -18,15 +18,15 @@
 
   ## Installation ##
 
-  Tims
+  Tim
 
   ## Usage ##
 
-  Tims
+  TIm
 
   ## Contributors ##
 
-  Tims
+  TIm
 
   ## License ##
 
@@ -34,7 +34,7 @@
 
   ## Tests ##
 
-  Tims
+  Tim
 
   ## Repository ##
 
