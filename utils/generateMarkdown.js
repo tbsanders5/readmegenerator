@@ -31,7 +31,7 @@ function generateMarkdown(data, usersGithubInfo, licenseURL) {
 
   ## License ##
 
-  ${licenseURL}
+  ${data.license}
 
   ## Tests ##
 
@@ -46,7 +46,7 @@ function generateMarkdown(data, usersGithubInfo, licenseURL) {
   ![My Profile Picture](${usersGithubInfo.image})
   - ${usersGithubInfo.name}
   - [My Profile](${usersGithubInfo.profile})
-  - [My Email](${data.email})
+  - ${data.email}
 
 `;
 }
