@@ -1,9 +1,9 @@
-# **Tims**
-  [![GNULesser](https://img/shields.io/badge/License-GNULesser-blue)]
+# **Tim**
+  [![GNULesser](https://img/shields.io/badge/License-GNULesser-blue)](https://api.github.com/licenses/lgpl-3.0)
 
   ## Description ##
 
-  Tims
+  Tim
 
   ## Table Of Contents ##
 
@@ -18,15 +18,15 @@
 
   ## Installation ##
 
-  Tims
+  Tim
 
   ## Usage ##
 
-  Tims
+  Tim
 
   ## Contributors ##
 
-  Tims
+  Tim
 
   ## License ##
 
@@ -34,7 +34,7 @@
 
   ## Tests ##
 
-  Tims
+  Tim
 
   ## Repository ##
 
