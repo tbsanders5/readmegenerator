@@ -1,5 +1,5 @@
 # **Tim**
-  [![Badge](https://img.shields.io/endpoint?url=https://api.github.com/licenses/mit&style=flat)](https://api.github.com/licenses/mit)
+  [![Badge](https://img.shields.io/endpoint?url=https://api.github.com/licenses/lgpl-3.0&style=flat)](https://api.github.com/licenses/lgpl-3.0)
 
   ## Description ##
 
@@ -30,7 +30,7 @@
 
   ## License ##
 
-  https://api.github.com/licenses/mit
+  https://api.github.com/licenses/lgpl-3.0
 
   ## Tests ##
 
