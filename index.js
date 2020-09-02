@@ -116,7 +116,7 @@ inquirer
             };
             const licenseURL = licenses[data.license].url;
 
-            fs.writeFile("README.md", generate(data, usersGithubInfo, licenseURL), function(err) {
+            fs.writeFile("example-readme.md", generate(data, usersGithubInfo, licenseURL), function(err) {
                 if (err) {
                     throw err;
                 }
