@@ -1,9 +1,9 @@
-# **Tim**
-  [![Badge](https://img.shields.io/endpoint?url=https://api.github.com/licenses/lgpl-3.0&style=flat)](https://api.github.com/licenses/lgpl-3.0)
+# **tim**
+  [![MIT](https://img.shields.io/endpoint?url=MIT&style=flat)](https://api.github.com/licenses/mit)
 
   ## Description ##
 
-  Tim
+  tim
 
   ## Table Of Contents ##
 
@@ -18,23 +18,23 @@
 
   ## Installation ##
 
-  Tim
+  tim
 
   ## Usage ##
 
-  Tim
+  tim
 
   ## Contributors ##
 
-  Tim
+  tim
 
   ## License ##
 
-  https://api.github.com/licenses/lgpl-3.0
+  https://api.github.com/licenses/mit
 
   ## Tests ##
 
-  Tim
+  tim
 
   ## Repository ##
 
