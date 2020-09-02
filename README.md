@@ -1,5 +1,5 @@
-# **tim**
-  [![MIT](https://img.shields.io/endpoint?url=MIT&style=flat)](https://api.github.com/licenses/mit)
+# **TIMBO**
+  [![MIT](https://img.shields.io/endpoint?url=https://api.github.com/licenses/mit&api=be64225727f4d1e5a53cb99b18a596194f7164b2&style=flat)](https://api.github.com/licenses/mit)
 
   ## Description ##
 
