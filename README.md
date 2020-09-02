@@ -6,7 +6,7 @@
   
   ![Screenshot of the application being run](./images/screenshot.jpeg)
 
-  ![Video Walk-through](https://youtu.be/hoNczFXtBHc)
+  * [Video Walk-through](https://youtu.be/hoNczFXtBHc)
 
   ## Description ##
 
