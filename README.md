@@ -1,9 +1,16 @@
-# **TIMBO**
-  [![MIT](https://img.shields.io/endpoint?url=https://api.github.com/licenses/mit&api=be64225727f4d1e5a53cb99b18a596194f7164b2&style=flat)](https://api.github.com/licenses/mit)
+# **Readme Generator**
+  ![MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+
+  
+  ## View Program ##
+  
+  ![Screenshot of the application being run](./images/screenshot.jpeg)
+
+  ![Video Walk-through](https://youtu.be/hoNczFXtBHc)
 
   ## Description ##
 
-  tim
+  A simple generator for a readme.md file through your terminal using node. Run the program, answer the prompt and the readme will write itself!
 
   ## Table Of Contents ##
 
@@ -18,15 +25,25 @@
 
   ## Installation ##
 
-  tim
-
+  1. Download node 
+  1. Run npm install 
+  1. Open the index page using node index.js 
+ 
   ## Usage ##
 
-  tim
+  1. Fill out the questions you are prompted 
+  1. Submit your response 
+  1. Verify the information is correct in the outputed readme file
 
   ## Contributors ##
 
-  tim
+  * [Nancy Lambert-Brown](https://github.com/n-lambert)
+  * [Plover Brown](https://github.com/rebgrasshopper)
+  * [Nicholas Konzen](https://github.com/NTKonzen)
+  * [Talia Vazquez](https://github.com/taliavazquez)
+  * [ShieldsIO](https://shields.io/category/license) 
+  * [Nodejs.org](https://nodejs.org/en/)
+
 
   ## License ##
 
@@ -34,16 +51,16 @@
 
   ## Tests ##
 
-  tim
+  Using jest or mocha you can run tests through the application using npm test.
 
   ## Repository ##
 
-  - [My Projects Repository](tim)
+  - [My Projects Repository](https://github.com/tbsanders5/readmegenerator)
 
   ## Questions ##
 
   ![My Profile Picture](https://avatars0.githubusercontent.com/u/67024245?v=4)
   - Timothy Sanders
   - [My Profile](https://github.com/tbsanders5)
-  - tim
+  - tbsanders5@gmail.com
 
